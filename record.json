@@ -1,0 +1,175 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [{
+        "affiliations": [{
+          "id": "01ggx4157",
+          "name": "European Organization for Nuclear Research"
+        }],
+        "person_or_org": {
+          "family_name": "van de Sandt",
+          "given_name": "Stephanie",
+          "identifiers": [{
+            "identifier": "0000-0002-9576-1974",
+            "scheme": "orcid"
+          }],
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [{
+          "id": "01ggx4157",
+          "name": "European Organization for Nuclear Research"
+        }],
+        "person_or_org": {
+          "family_name": "Nielsen",
+          "given_name": "Lars Holm",
+          "identifiers": [{
+            "identifier": "0000-0001-8135-3489",
+            "scheme": "orcid"
+          }],
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [{
+          "id": "01ggx4157",
+          "name": "European Organization for Nuclear Research"
+        }],
+        "person_or_org": {
+          "family_name": "Ioannidis",
+          "given_name": "Alexandros",
+          "identifiers": [{
+            "identifier": "0000-0002-5082-6404",
+            "scheme": "orcid"
+          }],
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [{
+          "name": "American Astronomical Society"
+        }],
+        "person_or_org": {
+          "family_name": "Muench",
+          "given_name": "August",
+          "identifiers": [{
+            "identifier": "0000-0003-0666-6367",
+            "scheme": "orcid"
+          }],
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [{
+          "name": "Harvard-Smithsonian Center for Astrophysics"
+        }],
+        "person_or_org": {
+          "family_name": "Henneken",
+          "given_name": "Edwin",
+          "identifiers": [{
+            "identifier": "0000-0003-4264-2450",
+            "scheme": "orcid"
+          }],
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [{
+          "name": "Harvard-Smithsonian Center for Astrophysics"
+        }],
+        "person_or_org": {
+          "family_name": "Accomazzi",
+          "given_name": "Alberto",
+          "identifiers": [{
+            "identifier": "0000-0002-4110-3511",
+            "scheme": "orcid"
+          }],
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [{
+          "id": "01ggx4157",
+          "name": "European Organization for Nuclear Research"
+        }],
+        "person_or_org": {
+          "family_name": "Bigarella",
+          "given_name": "Chiara",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [{
+          "id": "01ggx4157",
+          "name": "European Organization for Nuclear Research"
+        }],
+        "person_or_org": {
+          "family_name": "Gonzalez Lopez",
+          "given_name": "Jose Benito",
+          "identifiers": [{
+            "identifier": "0000-0002-0816-7126",
+            "scheme": "orcid"
+          }],
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [{
+          "id": "01ggx4157",
+          "name": "European Organization for Nuclear Research"
+        }],
+        "person_or_org": {
+          "family_name": "Dallmeier-Tiessen",
+          "given_name": "S\u00fcnje",
+          "identifiers": [{
+            "identifier": "0000-0002-6137-2348",
+            "scheme": "orcid"
+          }],
+          "type": "personal"
+        }
+      }
+    ],
+    "description": "<p>Data and software citations are crucial for the transparency of research results and for the transmission of credit. But they are hard to track, because of the absence of a common citation standard. As a consequence, the FORCE11 recently proposed data and software citation principles as guidance for authors.&nbsp;</p><p>Zenodo is recognized for the implementation of DOIs for software on a large scale. The minting of complementary DOIs for the version and concept allows measuring the impact of dynamic software. This article investigates characteristics of 5,456 citations to Zenodo data and software that were captured by the Asclepias Broker in January 2019. We analyzed the current state of data and software citation practices and the quality of software citation recommendations with regard to the impact of recent standardization efforts. Our findings prove that current citation practices and recommendations do not match proposed citation standards. We consequently suggest practical first steps towards the implementation of the software citation principles.</p>",
+    "identifiers": [{
+      "identifier": "arXiv:1911.00295",
+      "scheme": "arxiv"
+    }],
+    "publication_date": "2019-11-01",
+    "publisher": "arXiv",
+    "resource_type": {
+      "id": "publication-preprint"
+    },
+    "rights": [{
+        "id": "cc-by-4.0"
+      },
+      {
+        "title": {
+          "en": "Copyright (C) 2019 CERN, AAS and Harvard CfA"
+        }
+      }
+    ],
+    "subjects": [{
+        "subject": "Software citation"
+      },
+      {
+        "subject": "Zenodo"
+      },
+      {
+        "subject": "FAIR principles"
+      },
+      {
+        "subject": "Digital Libraries"
+      }
+    ],
+    "title": "Practice meets Principle: Tracking Software and Data Citations to Zenodo DOIs",
+    "version": "v1"
+  },
+  "pids": {}
+}
