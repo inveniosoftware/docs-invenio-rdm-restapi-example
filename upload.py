@@ -51,7 +51,8 @@ for datafile, files in records:
         r = requests.post(links["files"], data=data, headers=h, verify=False)
         assert r.status_code == 201, \
             f"Failed to create file {f} (code: {r.status_code})"
-        file_links = r.json()["entries"][0]["links"]
+        entries = r.json()["entries"]
+        file_links = next(entry["links"] for entry in entries if entry["key"] == f)
 
         # Upload file content by streaming the data
         with open(f, 'rb') as fp:
