@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2022 CERN.
+# SPDX-License-Identifier: MIT
+
 import requests
 import json
 
